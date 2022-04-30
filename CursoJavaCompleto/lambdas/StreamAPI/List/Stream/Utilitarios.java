@@ -1,5 +1,3 @@
-package StreamAPI.List.Stream;
-
 import java.util.function.UnaryOperator;
 
 public class Utilitarios {

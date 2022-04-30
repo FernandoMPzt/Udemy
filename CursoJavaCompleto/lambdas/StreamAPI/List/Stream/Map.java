@@ -1,5 +1,3 @@
-package StreamAPI.List.Stream;
-
 import java.util.Arrays;
 import java.util.List;
 import java.util.function.Consumer;
