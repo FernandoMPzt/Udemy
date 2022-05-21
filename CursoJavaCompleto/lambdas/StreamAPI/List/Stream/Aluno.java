@@ -10,5 +10,9 @@ public class Aluno {
     this.nota= nota;
     this.genero = genero;
   }
+
+  public String toString(){
+    return nome + "tem nota" + nota;
+  }
   
 }
